@@ -8,7 +8,7 @@
     let rains = []
     
     function draw() {
-        ctx.fillStyle = '#000'
+        ctx.fillStyle = '#111'
         ctx.fillRect(0, 0, CW, CH)
 
         drawRain()
